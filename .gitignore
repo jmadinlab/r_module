@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 .DS_Store
+
+# Josh's notes, ignore this line
+notes_josh.Rmd
