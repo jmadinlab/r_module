@@ -38,7 +38,7 @@ A | b | c
 > hist(rnorm(100))
 ```
 
-$y = \mu + \sum_{i=1}^p \beta_i x_i + \epsilon$
+$$y = \mu + \sum_{i=1}^p \beta_i x_i + \epsilon$$
 
 Links: [https://github.com/jmadinlab/r_module](https://github.com/jmadinlab/r_module)
 
